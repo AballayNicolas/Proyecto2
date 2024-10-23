@@ -36,7 +36,7 @@ En el notebook **EDA.ipynb**, se realizará un **`INFORME`** de Análisis exhaus
 
 Se Haran las tareas tanto de transformación de los datos y explicación de estos mismos cambios, se detallara el uso de las variables relevantes para nuestros graficos, se trataran valores atipicos y duplicados todo con el fin de tener un DataSet mas limpio para nuestros analisis, tambien se graficaran nuestras variables Categoricas para ver tanto su distribucion como relevancia para el analisis
 
-### 2. Proyecto Individual 2 (_enlace:_[Proyecto ](https://github.com/AballayNicolas/Proyecto2/blob/master/Trabajo%20Individual%202.pbix))
+### 2. Proyecto Individual 2 (_enlace:_ [Proyecto ](https://github.com/AballayNicolas/Proyecto2/blob/master/Trabajo%20Individual%202.pbix))
 
 En este archivo se podran vizualizar los Graficos y KPI´s Correspondientes a las consignas
 
@@ -48,7 +48,13 @@ Reducción accidentes motos: Este KPI Mide la meta de lograr y comparar la reduc
 
 Accidentes Horas pico: Este KPI Mide los accidentes en las horas pico que seria de 9 a 11 de la mañana y 17 a 19 de la tarde, en estas horas es donde mayor trafico tenemos ya sea por gente yendo a trabajar o volviendo de sus trabajos, podemos observar la cantidad de accidentes y el objetivo a reducir seria a 100
 
+### 3. Hechos (_enlace:_ [Hechos](https://github.com/AballayNicolas/Proyecto2/blob/master/Hechos.csv))
 
+Este DataFrame "Hechos.csv" fue proporcionado por henry en formato excel y transformado a CSV para su posterior uso en EDA y Graficacion
+
+### 4. Victimas (_enlace:_ [Victimas](https://github.com/AballayNicolas/Proyecto2/blob/master/Victimas.csv))
+
+Este DataFrame "Victimas.csv" fue proporcionado por henry en formato excel y transformado a CSV para su posterior uso en EDA y Graficacion
 
 ## Conclusiones:
 
