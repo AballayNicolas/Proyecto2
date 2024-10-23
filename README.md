@@ -8,6 +8,14 @@
 </h2>
 
 
+## Resumen:
+
+Los archivos "Hechos.csv" y "Victimas.csv" Fueron usados en el EDA Para el manejo y vizualización de los datos, estos mismos se consiguieron del material compartido por henry, sus cambios y usos se detallan en el EDA. 
+
+El archivo "Trabajo Individual 2.pbix" En este se podran vizualizar los graficos y KPI´s que se solicitaron, todo con el fin de poder tomar medidas respecto a los "Siniestros Viales".
+
+Por ultimo el archivo "requirements.txt" son las librerias que se utilizaron en el EDA
+
 
 ## Introducción:
 
@@ -22,6 +30,14 @@ En este proyecto, asumiré el rol de un Data Analyst y llevaré a cabo todos los
 ### 1. Análisis Exploratorio de Datos ( _enlace:_ [EDA ](https://github.com/AballayNicolas/Proyecto2/blob/master/EDA.ipynb))
 
 En el notebook **EDA.ipynb**, se realizará un **`INFORME`** de Análisis exhaustivo de los datos. Esto incluirá la visualización de los datos,  y la generación de conclusiones relevantes
+
+## Conclusiones:
+
+Estaremos Enfocados en las variables "Numero_victimas" y "Rol" estas mismas son cruciales para nuestros graficos
+
+todos estos cambios se realizaron en MySql todo quedara detallado en el EDA
+
+
 
 
 
