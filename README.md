@@ -36,13 +36,29 @@ En el notebook **EDA.ipynb**, se realizará un **`INFORME`** de Análisis exhaus
 
 Se Haran las tareas tanto de transformación de los datos y explicación de estos mismos cambios, se detallara el uso de las variables relevantes para nuestros graficos, se trataran valores atipicos y duplicados todo con el fin de tener un DataSet mas limpio para nuestros analisis, tambien se graficaran nuestras variables Categoricas para ver tanto su distribucion como relevancia para el analisis
 
-### 2. Proyecto Individual 2 (_enlace:_[Proyecto](https://github.com/AballayNicolas/Proyecto2/blob/master/Trabajo%20Individual%202.pbix))
+### 2. Proyecto Individual 2 (_enlace:_[Proyecto ](https://github.com/AballayNicolas/Proyecto2/blob/master/Trabajo%20Individual%202.pbix))
+
+En este archivo se podran vizualizar los Graficos y KPI´s Correspondientes a las consignas
+
+Explicación de los KPI´s:
+
+Reducción homicidios: Este KPI Mide la meta de lograr y comparar la reducción de homicidios viales causados el ultimo semestre comparado con el anterior, buscando reducir ese numero un 10% semestral, usando las formulas propuestas en las consignas.
+
+Reducción accidentes motos: Este KPI Mide la meta de lograr y comparar la reducción de accidentes en motos causados el ultimo año comparado con el anterior, buscando reducir ese numero un 7% anualmente, usando las formulas propuestas en las consignas.
+
+Accidentes Horas pico: Este KPI Mide los accidentes en las horas pico que seria de 9 a 11 de la mañana y 17 a 19 de la tarde, en estas horas es donde mayor trafico tenemos ya sea por gente yendo a trabajar o volviendo de sus trabajos, podemos observar la cantidad de accidentes y el objetivo a reducir seria a 100
+
+
 
 ## Conclusiones:
 
 Estaremos Enfocados en las variables "Numero_victimas" y "Rol" estas mismas son cruciales para nuestros graficos
 
 todos estos cambios se realizaron en MySql todo quedara detallado en el EDA
+
+
+
+
 
 
 
