@@ -36,6 +36,8 @@ En el notebook **EDA.ipynb**, se realizará un **`INFORME`** de Análisis exhaus
 
 Se Haran las tareas tanto de transformación de los datos y explicación de estos mismos cambios, se detallara el uso de las variables relevantes para nuestros graficos, se trataran valores atipicos y duplicados todo con el fin de tener un DataSet mas limpio para nuestros analisis, tambien se graficaran nuestras variables Categoricas para ver tanto su distribucion como relevancia para el analisis
 
+### 2. Proyecto Individual 2 (_enlace:_[Proyecto](https://github.com/AballayNicolas/Proyecto2/blob/master/Trabajo%20Individual%202.pbix))
+
 ## Conclusiones:
 
 Estaremos Enfocados en las variables "Numero_victimas" y "Rol" estas mismas son cruciales para nuestros graficos
