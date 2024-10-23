@@ -16,6 +16,9 @@ El archivo "Trabajo Individual 2.pbix" En este se podran vizualizar los graficos
 
 Por ultimo el archivo "requirements.txt" son las librerias que se utilizaron en el EDA
 
+Todos los Datos Extras usados en los analisis se obtuvieron de la pagina de Buenos Aires Data estos mismos tambien fueron tratados para su posterior analisis
+
+
 
 ## Introducción:
 
@@ -31,6 +34,8 @@ En este proyecto, asumiré el rol de un Data Analyst y llevaré a cabo todos los
 
 En el notebook **EDA.ipynb**, se realizará un **`INFORME`** de Análisis exhaustivo de los datos. Esto incluirá la visualización de los datos,  y la generación de conclusiones relevantes
 
+Se Haran las tareas tanto de transformación de los datos y explicación de estos mismos cambios, se detallara el uso de las variables relevantes para nuestros graficos, se trataran valores atipicos y duplicados todo con el fin de tener un DataSet mas limpio para nuestros analisis, tambien se graficaran nuestras variables Categoricas para ver tanto su distribucion como relevancia para el analisis
+
 ## Conclusiones:
 
 Estaremos Enfocados en las variables "Numero_victimas" y "Rol" estas mismas son cruciales para nuestros graficos
@@ -39,6 +44,14 @@ todos estos cambios se realizaron en MySql todo quedara detallado en el EDA
 
 
 
+
+
+
+
+
+
+
+### Hechos por Nicolas Aballay
 
 
 
