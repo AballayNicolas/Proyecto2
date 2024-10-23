@@ -30,6 +30,9 @@ En este proyecto, asumiré el rol de un Data Analyst y llevaré a cabo todos los
 
 2. **Desarrollo y graficación de KPI´s**
 
+## Archivos del proyecto:
+---
+
 ### 1. Análisis Exploratorio de Datos ( _enlace:_ [EDA ](https://github.com/AballayNicolas/Proyecto2/blob/master/EDA.ipynb))
 
 En el notebook **EDA.ipynb**, se realizará un **`INFORME`** de Análisis exhaustivo de los datos. Esto incluirá la visualización de los datos,  y la generación de conclusiones relevantes
